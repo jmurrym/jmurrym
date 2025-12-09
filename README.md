@@ -1,3 +1,9 @@
+<!-- 
+👋 Welcome! This is a professional GitHub profile README template.
+🔧 Customize the placeholder links below with your actual social media profiles.
+💡 Edit sections to match your specific experience and interests.
+-->
+
 <div align="center">
   
 # 👋 Hello, I'm jmurrym
